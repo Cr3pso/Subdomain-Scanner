@@ -28,6 +28,6 @@ python3 subdomain-scanner.py -h
 #
 ## Example:
 ```
-python3 subdomain-scanner -t thisisatest.com -w /usr/share/wordlists/wordlists.txt -https
+python3 subdomain-scanner.py -t thisisatest.com -w /usr/share/wordlists/wordlists.txt -https
 ```
 
