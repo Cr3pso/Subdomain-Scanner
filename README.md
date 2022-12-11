@@ -7,7 +7,7 @@ git clone https://github.com/Cr3pso/Subdomain-Scanner
 ```
 
 ```
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 ## How to use the tool?
