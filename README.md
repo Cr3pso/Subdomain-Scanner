@@ -3,11 +3,11 @@ This tool is a simple script made with python, which makes a brute-force attack 
 
 ## How to install the tool?
 ```
-- Git clone https://github.com/Cr3pso/Port_Scanner
+git clone https://github.com/Cr3pso/Port_Scanner
 ```
 
 ```
-- pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 ## How to use the tool?
