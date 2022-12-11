@@ -3,7 +3,7 @@ This tool is a simple script made with python, which makes a brute-force attack 
 
 ## How to install the tool?
 ```
-git clone https://github.com/Cr3pso/Port_Scanner
+git clone https://github.com/Cr3pso/Subdomain-Scanner
 ```
 
 ```
