@@ -13,7 +13,7 @@ pip3 install -r requirements.txt
 ## How to use the tool?
 ### - If we type **python3 subdomain-scanner.py** we can see that we need to write some parameters
 
-### Let's see which parameters can we use:
+### Let's see which parameters we can use:
 ```
 python3 subdomain-scanner.py -h
 ```
